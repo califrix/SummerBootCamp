@@ -64,8 +64,9 @@ header li :hover {
   color: #64829b;
 }
 
+
 .content {
-  padding: 300px 50px;
+  padding: 75px 50px;
   background-color: var(--dark-white);
   display: flex;
   gap: 35px;
@@ -83,8 +84,10 @@ header li :hover {
   padding: 15px;
   min-width: 280px;
 
+}
 
-
+video {
+  width: 75%;
 }
 
 
